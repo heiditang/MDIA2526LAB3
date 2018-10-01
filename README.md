@@ -1,4 +1,3 @@
 # MDIA2526LAB3
 # YES OR NO
-# GAY
 # STOP .
